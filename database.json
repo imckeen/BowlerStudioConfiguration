@@ -7,10 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git:GenericWalkingEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "GenericWalkingEngine.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.25.0",
     "fontsize": 12.0,
-    "skinBranch": "0.24.0",
+    "skinBranch": "0.25.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
